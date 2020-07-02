@@ -3,6 +3,6 @@ This API is performeing CRUD operations on DB using HTTP Verbs GET,POST,PUT,DELE
 Using Code First Approach to create database in SQL Server
 Implemented OOPS pillars encapsulation,abstraction 
 Also SOLID principles implemented Dependency Injection via contructor in the controller class
-Clean Code
+Clean code and architecture
 
 # Suggestions are welcome!
